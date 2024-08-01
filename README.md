@@ -27,6 +27,7 @@ The project will be developed and include new features and design changes.
 <img src="proof2.png" width="700">
 
 ## 📷 Video-Proof:
+https://github.com/user-attachments/assets/99f4c1cc-3182-4857-afa9-a9a9e66e4059
 
 
 ## 👤 Meta-Info:
